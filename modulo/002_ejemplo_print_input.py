@@ -1,5 +1,7 @@
 import math
 
+# Ejemplo de uso de las funciones print e input
+
 print("Mi ejemplo---------------")
 print(input("¿En que pais vives?"))
 print("Saludar al Usuario---------------")

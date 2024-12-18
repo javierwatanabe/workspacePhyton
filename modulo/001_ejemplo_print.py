@@ -1,3 +1,4 @@
+# Ejemplo de uso de la funcion print
 print("Imprimir un Mensaje Simple")
 print("Hola, Mundo!")
 print("********************")
