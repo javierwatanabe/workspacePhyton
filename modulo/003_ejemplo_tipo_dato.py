@@ -1,5 +1,5 @@
 # Ejemplo de diferentes tipos de datos en Python
-"""
+
 # Tipo de dato: Entero (int)
 numero_entero = 42
 print(f"Entero: {numero_entero}, Tipo: {type(numero_entero)}")
@@ -50,7 +50,7 @@ print(edad+edad)
 valor = input("Ingresa una cadena")
 print(f"Cadena ingresada: {valor}")
 ###
-"""
+
 # Ejemplo conversion implicita
 num1 = 20
 num2 = 2.5
@@ -61,3 +61,6 @@ print(f"Tipos de datos despues de la suma de 20 y 2.5")
 num1 = num1 + num2
 print(type(num1))
 print(type(num2))
+
+"""
+"""
