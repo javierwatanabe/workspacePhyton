@@ -2,15 +2,15 @@ print("Imprimir un Mensaje Simple")
 print("Hola, Mundo!")
 print("********************")
 print("Imprimir Variables")
-nombre = "Alice"
-edad = 30
-print("Nombre:", nombre)
-print("Edad:", edad)
+cadena = "variable"
+numero = 30
+print("Variable:", cadena)
+print("Numero:", numero)
 print("********************")
-print("Uso de F-Strings (Python 3.6+)")
-nombre = "Bob"
-edad = 25
-print(f"Nombre: {nombre}, Edad: {edad}")
+print("Uso de F-Strings")
+miNombre = "Mi nombre"
+año = 2024
+print(f"MiNombre: {miNombre}, Año: {año}")
 print("********************")
 print("Concatenar Cadenas")
 print("Hola " + "Mundo!")
@@ -49,9 +49,9 @@ print("Esta es una linea\nY esta es otra linea")
 print("\t\tEsta es la tercera linea")
 print("This isn\'t a number")
 print("Este signo \\ es una barra invertida")
-print("A\tB\tC")
-print("D\tE\tF")
-print("G\tH\tI")
+print("1\t2\t3")
+print("P\tE\tR")
+print("$\t-\t4")
 print("Barra Normal: /")
 print("Barra Invertida: \\")
 

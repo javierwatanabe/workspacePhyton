@@ -1,5 +1,5 @@
 import math
-"""
+
 print("Mi ejemplo---------------")
 print(input("¿En que pais vives?"))
 print("Saludar al Usuario---------------")
@@ -38,12 +38,12 @@ print("Ejemplo concatenacion---------------")
 print(f"Hola, {input('Ingresa tu nombre: ')} {input('Ingresa tu apellido: ')}!")
 
 print("Ejemplo operador %---------------")
-nombre = "Bob"
+nombre = "Charlie"
 edad = 25
 print("Hola, %s. Tienes %d años." % (nombre, edad))
 
 print("Ejemplo metodo format ---------------")
-nombre = "Charlie"
+nombre = "Brown"
 edad = 28
 print("Hola, {}. Tienes {} años.".format(nombre, edad))
 
@@ -65,6 +65,6 @@ print("Tu nombre y apellido son:  "+ input("Escribe tu nombre: ")+ " " +input("E
 nombre = input("Escribe tu nombre: ")
 apellido = input("Escribe tu apellido: ")
 print(f"{nombre} {apellido}")
-"""
+
 
 print("El nombre de tu cerveza\nes\t \"" + input("¿Cual es tu día favorito de la semana: ") + " " + input("¿Cual es tú número preferido de 3 dígitos?: ") + "\".\n¡Felicitaciones!")
