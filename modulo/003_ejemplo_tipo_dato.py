@@ -25,7 +25,7 @@ tupla = (1, 2, 3, 4, 5)
 print(f"Tupla: {tupla}, Tipo: {type(tupla)}")
 
 # Tipo de dato: Conjunto (set)
-conjunto = {1, 2, 3, 4, 5}
+conjunto = {1, 2, 3, 4, 5,5}
 print(f"Conjunto: {conjunto}, Tipo: {type(conjunto)}")
 
 # Tipo de dato: Diccionario (dict)
